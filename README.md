@@ -7,6 +7,8 @@
 ## Descripción:
 
 Se construira una aplicación con dsadasdasla arquitectura propuesta y desplegarla en AWS usando EC2 y Docker.
+fasfasfasfas
+
 
 ## Arquitectura:
 
