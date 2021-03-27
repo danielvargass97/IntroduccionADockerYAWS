@@ -6,7 +6,7 @@
 
 ## Descripción:
 
-Se construira una aplicación con la arquitectura propuesta y desplegarla en AWS usando EC2 y Docker.
+Se construira una aplicación con dsadasdasla arquitectura propuesta y desplegarla en AWS usando EC2 y Docker.
 
 ## Arquitectura:
 
